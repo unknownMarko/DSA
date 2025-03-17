@@ -1,0 +1,40 @@
+.background_pane {
+    -fx-background-color: #02040F;
+}
+
+.textfields {
+    -fx-background-color: #2b2a36;
+    -fx-text-inner-color: #b59464;
+}
+
+.gridLabel {
+    -fx-text-fill: #e3a956;
+}
+
+.radio-button .radio {
+    -fx-background-color: #cd8d5c;
+}
+
+.radio-button:selected .radio {
+    -fx-background-color: #DDCA7D;
+}
+
+.textarea {
+    -fx-background-color: #13172D;
+    -fx-text-fill: #b58b3c;
+}
+
+.textarea .content {
+    -fx-background-color: #13172D;
+    -fx-background-radius: 0;
+}
+
+.textareaPath {
+    -fx-background-color: #2D2A32;
+    -fx-text-fill: #eae151;
+}
+
+.textareaPath .content {
+    -fx-background-color: #2D2A32;
+    -fx-background-radius: 0;
+}
